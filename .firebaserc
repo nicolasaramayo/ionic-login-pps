@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-ng-ad704": {
+      "hosting": {
+        "app": [
+          "login-ng-ad704"
+        ]
+      }
+    }
+  }
+}
